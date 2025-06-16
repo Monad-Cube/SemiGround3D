@@ -99,7 +99,7 @@ python scripts/eval.py --config ./config/default.yaml --folder <folder_name> --r
 We would like to thank the authors of [ScanRefer](https://github.com/daveredrum/ScanRefer) and [Group-Free](https://github.com/zeliu98/Group-Free-3D) for their open-source release.
 
 ## License
-`3D-SPS` is released under the [MIT license](LICENSE).
+`SemiGround3D` is released under the [MIT license](LICENSE).
 
 ## <a name="CitingSPS"></a>Citation
 
