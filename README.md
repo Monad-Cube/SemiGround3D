@@ -90,7 +90,7 @@ python scripts/train.py --config ./config/default.yaml
 For more training options (like using preprocessed multiview features), please see details in `default.yaml`.
 
 ### Evaluation
-To evaluate the trained ScanRefer models, please download the trained model([`Google Drive`](https://drive.google.com/drive/folders/1hJOdcd75LPqrib94ciFn0ENFbFaF9Z49?usp=sharing) or [`Baidu Drive`](https://pan.baidu.com/s/1OhJrSLl72z5cweGRLr-fIQ?pwd=x3vl)(`passcode: x3vl`)]) and put it in the `<folder_name>` under `outputs/` and run :
+To evaluate the trained ScanRefer models, please download the trained model([`Google Drive`]() or [`Baidu Drive`]()]) and put it in the `<folder_name>` under `outputs/` and run :
 ```shell
 python scripts/eval.py --config ./config/default.yaml --folder <folder_name> --reference --no_nms --force
 ```
