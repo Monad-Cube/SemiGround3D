@@ -106,10 +106,5 @@ We would like to thank the authors of [ScanRefer](https://github.com/daveredrum/
 Consider cite SemiGround3D in your publications if it helps your research.
 
 ```
-@article{luo20223d,
-  title={3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection},
-  author={Luo, Junyu and Fu, Jiahui and Kong, Xianghao and Gao, Chen and Ren, Haibing and Shen, Hao and Xia, Huaxia and Liu, Si},
-  journal={arXiv preprint arXiv:2204.06272},
-  year={2022}
-}
+
 ```
